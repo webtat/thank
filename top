@@ -1,0 +1,27 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "sites": [
+      {
+      "key": "豆豆",
+      "name": "直播",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [
+    {
+      "name": "大口鱼直播",
+      "type": 0,
+      "url": "https://datweb.86g.top/thank/true.json",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+       "timeout": 5,
+    "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+    "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
